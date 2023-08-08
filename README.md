@@ -15,5 +15,5 @@
 
 # How to play
 
-- It's a simple 1v1 console game, when running the executable whether on cmd or and IDE, It prompts you to the game layout
+- It's a simple 1v1 console game, when running the executable whether on cmd or an IDE, It prompts you to the game layout
 - you can choose from the menu any choice, and after playing the winners/losers are stated in files, you can retrieve them anytime, Thank you.
