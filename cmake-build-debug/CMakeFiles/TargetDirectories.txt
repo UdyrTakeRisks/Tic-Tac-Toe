@@ -1,0 +1,3 @@
+C:/Users/DELL/OneDrive/Desktop/Intern2Grow/TicTacToeGame/cmake-build-debug/CMakeFiles/TicTacToeGame.dir
+C:/Users/DELL/OneDrive/Desktop/Intern2Grow/TicTacToeGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/OneDrive/Desktop/Intern2Grow/TicTacToeGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
